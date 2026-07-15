@@ -1,7 +1,7 @@
 # Core Agentic Frameworks
 langchain>=0.2.0
 langgraph>=0.1.0
-crewai>=0.8.0
+crewai
 dspy-ai>=2.4.0
 llama-index>=0.10.0
 llama-index-core>=0.10.0
@@ -25,5 +25,5 @@ psycopg2-binary>=2.9.0
 python-dotenv>=1.0.0
 streamlit>=1.35.0
 ragas>=0.1.7
-crewai-tools>=0.14.4
+crewai-tools
 pytest
