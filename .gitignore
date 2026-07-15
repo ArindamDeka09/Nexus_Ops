@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.env
+
+# Pytest and runtime caches
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Local database logs & sqlite files
+*.db
+nexus_ops.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+storage/
